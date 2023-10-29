@@ -25,7 +25,7 @@ Hyderabad_Power_Test.csv - the test set
 
 sample_submission.csv - a sample submission file in the correct format
 
-Columns
+**Columns**
 
 example_id - definition of example_id
 
