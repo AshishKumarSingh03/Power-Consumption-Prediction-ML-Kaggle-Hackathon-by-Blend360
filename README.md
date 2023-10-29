@@ -20,9 +20,15 @@ Submissions are evaluated on MAPE (Mean Absolute Percentage Error) between p
 **Files**
 
 Hyderabad_Power_Train.csv - the training set
+
 Hyderabad_Power_Test.csv - the test set
+
 sample_submission.csv - a sample submission file in the correct format
+
 Columns
+
 example_id - definition of example_id
+
 feature_1 - definition of feature_1
+
 etc.
