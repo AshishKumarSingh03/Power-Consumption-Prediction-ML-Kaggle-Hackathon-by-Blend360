@@ -10,3 +10,19 @@ Submissions are evaluated on MAPE (Mean Absolute Percentage Error) between p
 **Citation**
 
 0812, udheep, vaibhaw khemka. (2023). Hyderabad City Power Consumptions. Kaggle. https://kaggle.com/competitions/hyderabad-city-power-consumptions
+
+**Dataset Description**
+
+**Training Data:** You’re provided with 11 months (Jan17-Nov17) of power consumption data of each of the three zones at a granularity of 10 minutes interval. In addition to power consumption data, you’re also provided with Temperature, Humidity, Wind Speed, general diffuse flows, diffuse flows. Ignore the units of all the variables provided.
+
+**Testing Data:** You’re supposed to use the developed models/solution to predict power consumptions in each of the three zones for the same granularity of 10 minutes for a period of 1 month (Dec17).
+
+**Files**
+
+Hyderabad_Power_Train.csv - the training set
+Hyderabad_Power_Test.csv - the test set
+sample_submission.csv - a sample submission file in the correct format
+Columns
+example_id - definition of example_id
+feature_1 - definition of feature_1
+etc.
